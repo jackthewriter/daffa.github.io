@@ -1,0 +1,8 @@
+baseURL = "https://profile.daffa.cyou"
+languageCode = "en-us"
+title = "Mediumish"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "John Doe - All rights reserved"
+disqusShortname = "shortDisquis"
+googleAnalytics = "UA-1XXXXXXX1-X"
